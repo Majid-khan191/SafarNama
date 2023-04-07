@@ -1,0 +1,40 @@
+.IndiaGate-main-row, .IndiaGate-sub-row{
+    /* border:1px solid black; */
+}
+
+.IndiaGate-main-row{
+/* overflow:scroll; */
+}
+
+
+.IndiaGate-sub-row{
+    margin-left: 300px;
+    height: 615px;
+}
+.IndiaGate-heading h1{
+    /* border: 2px solid blue; */
+    text-align: center;
+    height:50px;
+    line-height: 50px;
+}
+.IndiaGate-image{
+    /* border: 2px solid green; */
+    
+
+    height: 400px;
+    background-image:url('../Images/IndiaGate.jpg');
+    background-size:100% 100% ;
+    border-radius:30px;
+}
+
+.IndiaGate-para div{
+    /* border: 2px solid orange; */
+    margin-top: 10px;
+    
+}
+
+
+.IndiaGate-main-para, .IndiaGate-sub-para{
+    /* border: 1px solid green; */
+    margin: 0px;
+}

@@ -1,0 +1,16 @@
+
+
+.homeimage{
+    height:600px;
+    background-image:url('../Images/TajMahal.jpg');
+    background-size:100% 100%;
+    animation: demo1 8s infinite alternate linear;
+    overflow: none;
+}
+
+@keyframes demo1 {
+    0%{background-image:url('../Images/RedFort.jpg');}
+    50%{background-image:url('../Images/HawaMahal.jpg');}
+    100%{background-image:url('../Images/TajMahal.jpg');}
+
+}

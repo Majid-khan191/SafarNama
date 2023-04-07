@@ -1,0 +1,50 @@
+*{
+    padding: 0px ;
+    margin: 0px;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+}
+.main-div{
+    width: 270px;
+    height: 615px;
+    background: rgb(71, 71, 71);
+    color: white;
+    float: left;
+    position: absolute;
+    position:fixed;
+}
+
+.monumentname{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    background-color:black;
+    height: 70px;
+    line-height: 70px;
+}
+.monumentlist{
+    border-bottom:1px solid black;
+    font-size: 20px;
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    height: 40px;
+    line-height: 40px;
+    transition: all .5s;
+    
+}
+.monumentlist:hover{
+    background: black;
+    font-size:21px;
+    
+    
+    
+
+}
+.monumentitem{
+    display: block;
+    padding-left: 20px;
+    color: white;
+}

@@ -1,0 +1,13 @@
+.b1{
+    border: 2px solid red;
+    
+}
+.b2{
+    border: 1px solid blue;
+    height:450px;
+    margin-top: 70px;
+   
+}
+.b3{
+    border: 1px solid yellow;
+}

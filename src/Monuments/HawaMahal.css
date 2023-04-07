@@ -1,0 +1,31 @@
+.HawaMahal-main-row, .HawaMahal-sub-row{
+    /* border:1px solid black; */
+}
+.HawaMahal-sub-row{
+    margin-left: 300px;
+    height: 600px;
+}
+.HawaMahal-heading h1{
+    /* border: 2px solid blue; */
+    text-align: center;
+    height:50px;
+    line-height: 50px;
+}
+.HawaMahal-image{
+    /* border: 2px solid green; */
+    height: 400px;
+    background-image:url('../Images/HawaMahal.jpg');
+    background-size:100% 100% ;
+    border-radius:30px;
+}
+.HawaMahal-para div{
+    /* border: 2px solid orange; */
+    margin-top: 10px;
+    
+}
+
+
+.HawaMahal-main-para, .HawaMahal-sub-para{
+    /* border: 1px solid green; */
+    margin: 0px;
+}

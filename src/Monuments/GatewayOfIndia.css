@@ -1,0 +1,31 @@
+.Gateway-main-row, .Gateway-sub-row{
+    /* border:1px solid black; */
+}
+.Gateway-sub-row{
+    margin-left: 300px;
+    height: 600px;
+}
+.Gateway-heading h1{
+    /* border: 2px solid blue; */
+    text-align: center;
+    height:50px;
+    line-height: 50px;
+}
+.Gateway-image{
+    /* border: 2px solid green; */
+    height: 400px;
+    background-image:url('../Images/Gateway1.jpg');
+    background-size:100% 100% ;
+    border-radius:30px;
+}
+.Gateway-para div{
+    /* border: 2px solid orange; */
+    margin-top: 10px;
+    
+}
+
+
+.Gateway-main-para, .Gateway-sub-para{
+    /* border: 1px solid green; */
+    margin: 0px;
+}
